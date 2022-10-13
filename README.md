@@ -2,7 +2,7 @@
 Esta é a versão 1.0.0 de um jogo da velha feito no curso de JavaScript do curso  B7web. O Objetivo é "criar" um joginho da velha.
 
 ## .PNG Exemplo
-![snackbar](https://github.com/juniornsantos/bateria_musical/blob/main/Capturar.PNG)
+![snackbar](https://github.com/juniornsantos/jogo_davelha/blob/main/jogodavelha.gif)
 
 ## Acesse o link ao lado.
 Acesse o link ao lado e veja o funcionamento completo.
